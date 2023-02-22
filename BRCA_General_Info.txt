@@ -1,0 +1,6 @@
+Total Number of Samples: 981
+Total Number of LumA Samples: 499
+Total Number of LumB Samples: 197
+Total Number of Her2 Samples: 78
+Total Number of Normal Samples: 36
+Total Number of Basal Samples: 171
